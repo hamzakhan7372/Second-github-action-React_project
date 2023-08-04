@@ -35,4 +35,4 @@ jobs:
       - name: Deploy
         run: |
           echo "Deploying..."
-          echo "Deployed successfully"
+          echo "Deployed successfully!" 
